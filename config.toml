@@ -10,5 +10,4 @@ muted = []
 
 # Precio máximo en dólares por partido (opcional): te aviso si algo baja de aquí
 [max]
-"football-2026-11-21" = 60  # prueba de aviso: borrar cuando llegue
 # "hockey-2026-11-21" = 25

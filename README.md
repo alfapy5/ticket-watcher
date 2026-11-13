@@ -5,7 +5,7 @@ Vigila los precios de reventa en Maizetix para los partidos en casa de Michigan 
 ## Puesta en marcha (una sola vez)
 
 1. Instala **ntfy** en el móvil (App Store / Google Play).
-2. Inventa un nombre de canal largo y aleatorio, por ejemplo `tw-k3j9x2m8q7`, y suscríbete a él en la app. Es secreto: quien lo sepa puede leer tus avisos.
+2. Genera un nombre de canal aleatorio con `python -c "import secrets; print('tw-' + secrets.token_hex(8))"` y suscríbete a él en la app. Es secreto: quien lo sepa puede leer tus avisos. No lo escribas en ningún archivo del repo.
 3. Crea un repo **público** en GitHub y sube esta carpeta.
 4. En el repo, ve a Settings → Secrets and variables → Actions → New repository secret. Crea `NTFY_TOPIC` con el nombre del canal del paso 2.
 5. En la pestaña Actions, activa los workflows y ejecuta `watch` a mano (Run workflow). La primera vuelta solo apunta los precios; no avisa.

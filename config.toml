@@ -1,13 +1,18 @@
-# Edita este archivo desde el móvil en GitHub (icono del lápiz).
-# id de partido = deporte-AAAA-MM-DD, por ejemplo hockey-2026-11-21
-# deporte: football, basketball o hockey
+# Solo cambia los números de abajo. 0 = sin máximo.
+# Te aviso cuando haya una entrada por debajo de tu máximo (en dólares).
+# Edita desde el móvil: https://github.com/mmerino90/ticket-watcher/edit/main/config.toml
 
-# Último día que vigilar (sin comillas). Los partidos posteriores se ignoran.
-until = 2026-12-20
+until = 2026-12-20   # último día que vigilar
+muted = []           # partidos a ignorar, ej: ["hockey-2026-11-27"]
 
-# Partidos que no quieres vigilar
-muted = []
-
-# Precio máximo en dólares por partido (opcional): te aviso si algo baja de aquí
 [max]
-# "hockey-2026-11-21" = 25
+"hockey-2026-11-14" = 0      # Penn State
+"basketball-2026-11-15" = 0  # William & Mary
+"hockey-2026-11-20" = 0      # Michigan State
+"football-2026-11-21" = 0    # UCLA
+"hockey-2026-11-27" = 0      # Ferris State
+"hockey-2026-11-28" = 0      # Ferris State
+"basketball-2026-12-01" = 0  # Mississippi Valley State
+"hockey-2026-12-04" = 0      # Wisconsin
+"hockey-2026-12-05" = 0      # Wisconsin
+"basketball-2026-12-12" = 0  # Northwestern

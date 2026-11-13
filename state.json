@@ -1,0 +1,65 @@
+{
+ "games": {
+  "basketball-2026-11-15": {
+   "alerted": [],
+   "mins": {
+    "maizetix": 499
+   }
+  },
+  "basketball-2026-12-01": {
+   "alerted": [],
+   "mins": {}
+  },
+  "basketball-2026-12-12": {
+   "alerted": [],
+   "mins": {}
+  },
+  "football-2026-11-21": {
+   "alerted": [],
+   "mins": {
+    "maizetix": 999
+   }
+  },
+  "hockey-2026-11-13": {
+   "alerted": [],
+   "mins": {}
+  },
+  "hockey-2026-11-14": {
+   "alerted": [],
+   "mins": {
+    "maizetix": 7000
+   }
+  },
+  "hockey-2026-11-20": {
+   "alerted": [],
+   "mins": {
+    "maizetix": 11399
+   }
+  },
+  "hockey-2026-11-27": {
+   "alerted": [],
+   "mins": {}
+  },
+  "hockey-2026-11-28": {
+   "alerted": [],
+   "mins": {}
+  },
+  "hockey-2026-12-04": {
+   "alerted": [],
+   "mins": {
+    "maizetix": 7199
+   }
+  },
+  "hockey-2026-12-05": {
+   "alerted": [],
+   "mins": {
+    "maizetix": 6499
+   }
+  }
+ },
+ "sources": {
+  "maizetix": {
+   "ok": true
+  }
+ }
+}

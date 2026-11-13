@@ -3,7 +3,7 @@
   "basketball-2026-11-15": {
    "alerted": [],
    "mins": {
-    "maizetix": 499
+    "maizetix": 500
    }
   },
   "basketball-2026-12-01": {
@@ -15,7 +15,9 @@
    "mins": {}
   },
   "football-2026-11-21": {
-   "alerted": [],
+   "alerted": [
+    "c24e5a87afc37a9a"
+   ],
    "mins": {
     "maizetix": 999
    }

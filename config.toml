@@ -1,0 +1,13 @@
+# Edita este archivo desde el móvil en GitHub (icono del lápiz).
+# id de partido = deporte-AAAA-MM-DD, por ejemplo hockey-2026-11-21
+# deporte: football, basketball o hockey
+
+# Último día que vigilar (sin comillas). Los partidos posteriores se ignoran.
+until = 2026-12-20
+
+# Partidos que no quieres vigilar
+muted = []
+
+# Precio máximo en dólares por partido (opcional): te aviso si algo baja de aquí
+[max]
+# "hockey-2026-11-21" = 25

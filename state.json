@@ -6,7 +6,7 @@
     "0b09e810e4477079"
    ],
    "mins": {
-    "maizetix": 549
+    "maizetix": 700
    }
   },
   "basketball-2026-12-01": {
@@ -25,17 +25,13 @@
     "maizetix": 1450
    }
   },
-  "hockey-2026-11-13": {
-   "alerted": [],
-   "mins": {}
-  },
   "hockey-2026-11-14": {
    "alerted": [
     "05c2b0e072f5a83b",
     "53f2c0cb62cc63ae"
    ],
    "mins": {
-    "maizetix": 5800
+    "maizetix": 6800
    }
   },
   "hockey-2026-11-20": {

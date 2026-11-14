@@ -2,10 +2,11 @@
  "games": {
   "basketball-2026-11-15": {
    "alerted": [
-    "35b40977246a7671"
+    "35b40977246a7671",
+    "0b09e810e4477079"
    ],
    "mins": {
-    "maizetix": 549
+    "maizetix": 400
    }
   },
   "basketball-2026-12-01": {
@@ -21,7 +22,7 @@
     "c24e5a87afc37a9a"
    ],
    "mins": {
-    "maizetix": 1500
+    "maizetix": 1450
    }
   },
   "hockey-2026-11-13": {
@@ -37,9 +38,11 @@
    }
   },
   "hockey-2026-11-20": {
-   "alerted": [],
+   "alerted": [
+    "f374e999383964a7"
+   ],
    "mins": {
-    "maizetix": 11300
+    "maizetix": 11200
    }
   },
   "hockey-2026-11-27": {

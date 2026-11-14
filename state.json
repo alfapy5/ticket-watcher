@@ -19,19 +19,21 @@
   },
   "football-2026-11-21": {
    "alerted": [
-    "c24e5a87afc37a9a"
+    "c24e5a87afc37a9a",
+    "2a1a1b1fdb2e0ec0"
    ],
    "mins": {
-    "maizetix": 1450
+    "maizetix": 721
    }
   },
   "hockey-2026-11-14": {
    "alerted": [
     "05c2b0e072f5a83b",
-    "53f2c0cb62cc63ae"
+    "53f2c0cb62cc63ae",
+    "1c7fdc43318a2e05"
    ],
    "mins": {
-    "maizetix": 6800
+    "maizetix": 6000
    }
   },
   "hockey-2026-11-20": {

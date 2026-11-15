@@ -34,7 +34,7 @@
     "aafa186329bdb128"
    ],
    "mins": {
-    "maizetix": 1499
+    "maizetix": 1498
    }
   },
   "hockey-2026-11-20": {
@@ -57,10 +57,11 @@
   },
   "hockey-2026-12-04": {
    "alerted": [
-    "13972dc19ef57d66"
+    "13972dc19ef57d66",
+    "e2915fb304841ffe"
    ],
    "mins": {
-    "maizetix": 8000
+    "maizetix": 6000
    }
   },
   "hockey-2026-12-05": {

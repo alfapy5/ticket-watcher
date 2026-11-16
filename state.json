@@ -24,7 +24,7 @@
     "e0f5c254b31739e1"
    ],
    "mins": {
-    "maizetix": 1000
+    "maizetix": 1499
    }
   },
   "hockey-2026-11-20": {
@@ -37,7 +37,7 @@
     "8a5b3986202959ba"
    ],
    "mins": {
-    "maizetix": 11500
+    "maizetix": 11900
    }
   },
   "hockey-2026-11-27": {
@@ -55,13 +55,13 @@
     "22301e9527cb7865"
    ],
    "mins": {
-    "maizetix": 7000
+    "maizetix": 7999
    }
   },
   "hockey-2026-12-05": {
    "alerted": [],
    "mins": {
-    "maizetix": 7998
+    "maizetix": 7990
    }
   }
  },

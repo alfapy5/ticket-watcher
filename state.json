@@ -31,7 +31,7 @@
     "b6e59ceebfa94900"
    ],
    "mins": {
-    "maizetix": 1199
+    "maizetix": 1175
    }
   },
   "hockey-2026-11-20": {
@@ -43,10 +43,11 @@
     "2a913f272a03b759",
     "8a5b3986202959ba",
     "a15f6d6c897c0cbe",
-    "1194e882160d1594"
+    "1194e882160d1594",
+    "1caf0aa70ced7ce9"
    ],
    "mins": {
-    "maizetix": 11600
+    "maizetix": 11400
    }
   },
   "hockey-2026-11-27": {
@@ -71,9 +72,11 @@
    }
   },
   "hockey-2026-12-05": {
-   "alerted": [],
+   "alerted": [
+    "3963c882ce384ad6"
+   ],
    "mins": {
-    "maizetix": 7899
+    "maizetix": 7500
    }
   }
  },

@@ -78,10 +78,11 @@
   "hockey-2026-12-05": {
    "alerted": [
     "3963c882ce384ad6",
-    "d49e5f69d810c760"
+    "d49e5f69d810c760",
+    "b1173dcdae505fc6"
    ],
    "mins": {
-    "maizetix": 9100
+    "maizetix": 6500
    }
   }
  },

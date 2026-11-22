@@ -8,49 +8,6 @@
    "alerted": [],
    "mins": {}
   },
-  "football-2026-11-21": {
-   "alerted": [
-    "c24e5a87afc37a9a",
-    "2a1a1b1fdb2e0ec0",
-    "79bbfc0eb5e8a653",
-    "f5c5315755c52961",
-    "5e8e365aa33aa927",
-    "c2ebe1856190cd92",
-    "90027fb11f4ead4a",
-    "aafa186329bdb128",
-    "e3076b91d1933686",
-    "a6ed1dd90dea2e7c",
-    "05c05de9389a96eb",
-    "e0f5c254b31739e1",
-    "77158507a4538b86",
-    "bb68e3e8d36a617e",
-    "0f63428359851e50",
-    "457697b813221911",
-    "3a401b3d524ae248",
-    "179fd40f8a6fdf4c",
-    "b6e59ceebfa94900",
-    "017a5ed4aebfed6f",
-    "19059aa6f56c04ea",
-    "aa8c919e692c2e60",
-    "ba8b14c61200ff7d",
-    "c13524b33d0519cb",
-    "c89da5fd90f942a1",
-    "d3fcbb8cc0068f79",
-    "e271acb9e0fb9730",
-    "adb4a2407ff551a7",
-    "ffc9a509915d8804",
-    "6a3310bb6be3a08f",
-    "6e3cd24c601d13a8",
-    "131090a73da61675",
-    "f94b2b68f0d6da50",
-    "90514481e6c84aeb",
-    "d91b2571f52db516",
-    "c59fc14b367c6089",
-    "cf91ca00e263a1d3",
-    "e71aa905e112d625"
-   ],
-   "mins": {}
-  },
   "hockey-2026-11-27": {
    "alerted": [],
    "mins": {}
@@ -72,7 +29,7 @@
     "29659ce811f1969d"
    ],
    "mins": {
-    "maizetix": 6500
+    "maizetix": 6499
    }
   },
   "hockey-2026-12-05": {

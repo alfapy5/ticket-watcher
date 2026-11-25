@@ -9,12 +9,20 @@
    "mins": {}
   },
   "hockey-2026-11-27": {
-   "alerted": [],
-   "mins": {}
+   "alerted": [
+    "e08af5e559f01dfd"
+   ],
+   "mins": {
+    "maizetix": 5200
+   }
   },
   "hockey-2026-11-28": {
-   "alerted": [],
-   "mins": {}
+   "alerted": [
+    "052f4bf3816a8814"
+   ],
+   "mins": {
+    "maizetix": 6000
+   }
   },
   "hockey-2026-12-04": {
    "alerted": [
